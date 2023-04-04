@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ymly:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ymly_jar</output-path>
+    <root id="archive" name="ymly.jar">
+      <element id="module-output" name="ymly" />
+      <element id="extracted-dir" path="E:/BaiduNetdiskDownload/jpcap/jpcap.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
